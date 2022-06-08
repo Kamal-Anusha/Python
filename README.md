@@ -266,6 +266,18 @@ Python divides the operators in the following groups:
 Python Arithmetic Operators
 +,-,/,*,%,**,//
 
-Python Assignment Operators
+Python Bitwise Operators
+
+Complement Operator:
+For Positive Integers: -1 * 2^(number of bits - 1 )
+For Negative Integers: -1 -(-number)
+& - Adding using and in bits
+| - Adding using or in bits
+^ - XOR
+>> Loses number bits mentioned in left side - 
+<< Gains zeros in left side
+
+
+Assignment Operators
 
 
