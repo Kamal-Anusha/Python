@@ -252,4 +252,20 @@ Python also has many built-in functions that return a boolean value, like the is
 x = 200
 print(isinstance(x, int)) 
 
+------------------------
+Python Operators
+Python divides the operators in the following groups:
+
+    Arithmetic operators
+    Assignment operators
+    Comparison operators
+    Logical operators
+    Identity operators
+    Membership operators
+    Bitwise operators
+Python Arithmetic Operators
++,-,/,*,%,**,//
+
+Python Assignment Operators
+
 
